@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Agregar from './components/Agregar/Agregar';
 import Navbar from './components/Navbar/Navbar';
 import Productos from './components/Productos';
